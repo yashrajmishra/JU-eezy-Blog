@@ -11,6 +11,13 @@ Website built with GatsbyJS.
 - `npm run dev` - start for development
 - `npm build` - build for production
 
+## Add your Blog
+
+- put your markdown file in a folder named `dd-mm-yy-blog-title` 
+- link all the image with `./` in the markdown
+- location of the folder should be `/src/posts/`
+- JUST send a Pull request to this Repository 
+
 ## Features
 
 - **dark/light mode**, depending on your preferences (dark is default, but you can change it)
