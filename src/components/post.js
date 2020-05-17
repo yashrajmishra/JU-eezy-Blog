@@ -4,16 +4,13 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import Navigation from './navigation'
 import { toKebabCase } from '../helpers'
-
-
+import style from '../styles/post.module.css'
 import { DiscussionEmbed } from "disqus-react"
 
 const disqusConfig = {
   shortname: 'ju-eezy',
   config: { }
 }
-
-import style from '../styles/post.module.css'
 
 const Post = ({
   title,
