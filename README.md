@@ -6,8 +6,7 @@ Website built with GatsbyJS.
 
 ## How to use it
 
-- Clone this repo `git clone https://github.com/yashrajmishra/JU-eezy-Web.git`
-- change directory to `JUeezyWeb.github.io/blogs/`
+- Clone this repo `git clone https://github.com/yashrajmishra/JU-eezy-Blog.git`
 - `npm install` - install modules
 - `npm run dev` - start for development
 - `npm build` - build for production
