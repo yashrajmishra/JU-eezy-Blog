@@ -78,3 +78,4 @@ firebase-debug.log*
 
 # Firebase cache
 .firebase/
+yarn.lock

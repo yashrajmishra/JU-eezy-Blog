@@ -9,11 +9,11 @@ module.exports = {
   siteMetadata: {
     title: `JU Eezy`,
     description: `Blogs For JU-Eezy`,
-    copyrights: '© JU-Eezy',
-    author: `@CrazyLilOsama`,
+    copyrights: 'Made with 💖 by Yashraj Mishra',
+    author: `Yashraj Mishra`,
     logo: {
-      src: '',
-      alt: '',
+      src: 'ju-eezy-logo.png',
+      alt: 'ju-eezy',
     },
     logoText: 'JU Eezy',
     defaultTheme: 'light',
@@ -106,6 +106,11 @@ module.exports = {
               aliases: {},
               showLineNumbers: true,
               noInlineHighlight: false,
+              prompt: {
+                user: "yashrajmishra",
+                host: "LegionOwner",
+                global: true,
+              },
             },
           },
         ],

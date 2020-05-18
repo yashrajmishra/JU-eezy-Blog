@@ -18,9 +18,7 @@
     "dev": "gatsby clean && gatsby develop",
     "build": "gatsby clean && gatsby build",
     "serve": "gatsby serve",
-    "firebase_deploy": "firebase deploy --only hosting:ju-eezy-blogs",
-    "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "format": "prettier --write \"src/**/*.js\""
   },
   "dependencies": {
     "disqus-react": "^1.0.8",
