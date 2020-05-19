@@ -1,5 +1,7 @@
 [![JU-eezy](https://raw.githubusercontent.com/yashrajmishra/JU-eezy-Web/master/Support%20files/background.png)](https://jueezy.rocks)
 
+![](https://badgen.net/github/status/yashrajmishra/JU-eezy-Web)
+
 # [JU-eezy](https://jueezy.rocks)
 
 Website built with GatsbyJS.
