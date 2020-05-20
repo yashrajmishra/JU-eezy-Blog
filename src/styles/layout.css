@@ -335,7 +335,7 @@ footer {
   width: 15px;
 }
 ::-webkit-scrollbar-track {
-  background: #0c0a20;
+  background: transparent
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #a9a9b3;
