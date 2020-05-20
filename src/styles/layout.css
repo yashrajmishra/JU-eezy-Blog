@@ -331,3 +331,22 @@ footer {
     }
   }
 }
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-track {
+  background: #0c0a20;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a9a9b3;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background-color: #0c0a20;
+  background-image: -webkit-linear-gradient(
+    top,
+    rgba(76, 255, 199, 1) 0%,
+    rgba(73, 252, 212, 1) 50%,
+    rgba(73, 252, 241, 1) 100%
+  );
+}
