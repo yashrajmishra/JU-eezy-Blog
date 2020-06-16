@@ -148,6 +148,7 @@ code {
 
   .dark-theme & {
     background: var(--dark-background-secondary);
+    color: #000;
   }
 }
 
