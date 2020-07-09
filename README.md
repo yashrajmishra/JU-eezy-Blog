@@ -9,16 +9,16 @@ Website built with GatsbyJS.
 ## How to use it
 
 - Clone this repo `git clone https://github.com/yashrajmishra/JU-eezy-Blog.git`
-- `npm install` - install modules
-- `npm run dev` - start for development
-- `npm build` - build for production
+- `yarn` - install modules
+- `yarn dev` - start for development
+- `yarn build` - build for production
 
 ## Add your Blog
 
-- put your markdown file in a folder named `dd-mm-yy-blog-title` 
+- put your markdown file in a folder named `dd-mm-yy-blog-title`
 - link all the image with `./` in the markdown
 - location of the folder should be `/src/posts/`
-- JUST send a Pull request to this Repository 
+- JUST send a Pull request to this Repository
 
 ## Features
 
@@ -39,12 +39,10 @@ plugins: [
   {
     resolve: `gatsby-transformer-remark`,
     options: {
-      plugins: [
-        `gatsby-remark-prismjs`,
-      ]
-    }
-  }
-]
+      plugins: [`gatsby-remark-prismjs`],
+    },
+  },
+];
 ```
 ````
 
@@ -59,12 +57,10 @@ plugins: [
   {
     resolve: `gatsby-transformer-remark`,
     options: {
-      plugins: [
-        `gatsby-remark-prismjs`,
-      ]
-    }
-  }
-]
+      plugins: [`gatsby-remark-prismjs`],
+    },
+  },
+];
 ```
 ````
 
@@ -77,12 +73,10 @@ plugins: [
   {
     resolve: `gatsby-transformer-remark`,
     options: {
-      plugins: [
-        `gatsby-remark-prismjs`,
-      ]
-    }
-  }
-]
+      plugins: [`gatsby-remark-prismjs`],
+    },
+  },
+];
 ```
 ````
 
@@ -150,12 +144,10 @@ plugins: [
   {
     resolve: `gatsby-transformer-remark`,
     options: {
-      plugins: [
-        `gatsby-remark-prismjs`,
-      ]
-    }
-  }
-]
+      plugins: [`gatsby-remark-prismjs`],
+    },
+  },
+];
 ```
 ````
 
@@ -167,17 +159,21 @@ By default, every line gets a prompt appended to the start, this behaviour can b
 
 ````markdown
 ```bash{outputLines: 2-10,12}
+
+```
 ````
 
 The user and host used in the appended prompt is pulled from the `prompt.user` and `prompt.host` values, unless explicitly overridden by the `promptUser` and `promptHost` options in the snippet, e.g.:
 
 ````markdown
 ```bash{promptUser: alice}{promptHost: dev.localhost}
+
+```
 ````
 
 ### [Line hiding](https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/#line-hiding)
 
-As well as highlighting lines, it’s possible to *hide* lines from the rendered output. Often this is handy when using `gatsby-remark-prismjs` along with [`gatsby-remark-embed-snippet`](https://www.gatsbyjs.org/packages/gatsby-remark-embed-snippet/).
+As well as highlighting lines, it’s possible to _hide_ lines from the rendered output. Often this is handy when using `gatsby-remark-prismjs` along with [`gatsby-remark-embed-snippet`](https://www.gatsbyjs.org/packages/gatsby-remark-embed-snippet/).
 
 As with highlighting lines, you can control which lines to hide by adding directives as comments in your source code.
 
