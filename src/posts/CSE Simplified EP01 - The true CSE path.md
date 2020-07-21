@@ -3,14 +3,15 @@ title: "CSE Simplified EP01 - The true CSE path"
 path: "/CSE-Simplified-EP01-The-true-CSE-path"
 date: "2020-07-09"
 author: "Lavish Swarnkar"
-excerpt: 'Welcome to the first episode of the series - CSE Simplified.....'
-tags: ["new","talk","announcement"]
+excerpt: "Welcome to the first episode of the series - CSE Simplified....."
+tags: ["new", "talk", "announcement", "EP01", "TruePathOfCSE", "BtechVsBca"]
 ---
+
 Namaskaram friends!
 
 Welcome to the first episode of the series - CSE Simplified. In this episode, we will give you a brief overview of the true CSE path students should follow.
 
-*Following is the transcript of the episode. You may like to watch the video [`here`](https://youtu.be/CXWaBc2bxIc)*
+_Following is the transcript of the episode. You may like to watch the video [`here`](https://youtu.be/CXWaBc2bxIc)_
 
 In this video series - CSE Simplified, we will be sharing our ideas and suggestions as to how a B.Tech CSE student should be. This series is primarily for the 1st and 2nd year undergraduate students.
 
@@ -28,13 +29,13 @@ Every decision that you take during these 4 years affects your career in one way
 
 After carefully observing this CS world for more than 3 years now, we, the JU eezy team brings you the success mantra to complete your B.Tech the right way.
 
-Before we begin, I want to make it very clear that we are not here to brainwash or deviate you. We just want to show you the way we look at CSE and how you can get the most out of it. At the end it is up to you to decide what path to follow. 
+Before we begin, I want to make it very clear that we are not here to brainwash or deviate you. We just want to show you the way we look at CSE and how you can get the most out of it. At the end it is up to you to decide what path to follow.
 
 ## B.Tech vs BCA
 
 Let us start by discussing on a great decision you have taken by picking B.Tech over BCA.
 
-BCA is different from B.Tech based on the area they focus on. BCA is all about applications of CS. They need not go into greater depths of CS. While in B.Tech, you must know the working of computers, their architecture, theory of computation, computer networks, operating systems and a lot more. BCA also has some of these subjects but not in depth that B.Tech touches. 
+BCA is different from B.Tech based on the area they focus on. BCA is all about applications of CS. They need not go into greater depths of CS. While in B.Tech, you must know the working of computers, their architecture, theory of computation, computer networks, operating systems and a lot more. BCA also has some of these subjects but not in depth that B.Tech touches.
 
 To make it short, a BCA guy would only know how to use a ML tool to build application but a CS Engineer would invent a new tool if required because he knows what's behind. BCA guy only knows how to use tools but B.Tech guy knows how to build one.
 
@@ -54,18 +55,18 @@ Now let's see the common mistakes students make and the misconceptions they have
 
 5. **Making too many friends** : Don't extend your friend circle beyond a certain limit. As it may badly impact your career. Many people make friends for security in the times of fight. That's a very bad choice. Unnecessarily, you will have to sacrifice a lot of time maintaining such friendships. Instead make friend who finds good in you, who uplifts you, who shares similar career interests with you, friend who makes you fly, who makes you independent and not those who criticize and demotivate you constantly. Make friendships for life not for small benefits. Ask yourself how many of your current friends will stand with you even after college. Choose wisely and see the impact for yourself.
 
-6. **Falling into the pit of false love** : Many people take money and sexual desire based relationships as love. Such relationships will not last longer. You will lose money and more importantly the precious time which will never come back. Don't get into this Western influence. It will ruin your life. See for yourself how long do bodily pleasures based relationships last in the west? If your relationship is beyond body and mind ; you both mutually understand each other's life goals and are committed to support each other regardless of what likes and dislikes you have, then no on can stop you. Go for it. 
-   
-   But if it is not the case forget about it. 
-   
-   Here is a fun fact : *Your career growth decides whether your relationship will exist after college or not!*
-   
-   Lastly I would like to say - *jo apni galtiyon se samje wo Samjdar hai or jo dusro ki galtiyon se samje wo Bahut samjdar hai.* 
+6. **Falling into the pit of false love** : Many people take money and sexual desire based relationships as love. Such relationships will not last longer. You will lose money and more importantly the precious time which will never come back. Don't get into this Western influence. It will ruin your life. See for yourself how long do bodily pleasures based relationships last in the west? If your relationship is beyond body and mind ; you both mutually understand each other's life goals and are committed to support each other regardless of what likes and dislikes you have, then no on can stop you. Go for it.
+
+   But if it is not the case forget about it.
+
+   Here is a fun fact : _Your career growth decides whether your relationship will exist after college or not!_
+
+   Lastly I would like to say - _jo apni galtiyon se samje wo Samjdar hai or jo dusro ki galtiyon se samje wo Bahut samjdar hai._
 
 7. **Building start-up in 36 hours** : Naah, not at all. Many people think that they can build their start-up by just participating in hackathons. Not true. Hackathon is a sport. Take it as an opportunity to learn and grow together. Build up your team work skills. Learn new technologies. Meet other teams, build your connections.
-   
-   Whatever problem you pick, there is a high chance of a solution already existing in market for it. So, standing in market and building your start-up takes enormous effort and patience. Do as much research as possible. Instead of building solution straight away, perform SWOT analysis and brainstorm the architecture first. Build a road map and go slow. Don't expect anything significant in terms of startup from hackathons. It takes months and years to build one. First learn, see the world around and then build your start-up. 
-   
+
+   Whatever problem you pick, there is a high chance of a solution already existing in market for it. So, standing in market and building your start-up takes enormous effort and patience. Do as much research as possible. Instead of building solution straight away, perform SWOT analysis and brainstorm the architecture first. Build a road map and go slow. Don't expect anything significant in terms of startup from hackathons. It takes months and years to build one. First learn, see the world around and then build your start-up.
+
    Most importantly, never ever compromise CSE for your start-up. You have not picked Entrepreneurship but CSE. All this start-up business should be your second priority.
 
 ## The Success Mantra
@@ -77,7 +78,7 @@ Now to be successful in CSE ie, landing up in Product based companies or a good 
 2. **Learn Core CS / Theoretical CS** : Learn these subjects even if they are not taught well in college. They will help you understand CS better and build good softwares. Read books! College grades aren't enough, you must know the concepts very well.
 
 3. **Development** : This is optional. But if you do, you will stand out among your peers. It is a great skill to have and it will boost your productivity. You can pick among App development, web dvpt, game dvpt etc.
-   
+
    According to me, these three are the basic pillars of B.Tech CSE.
 
 4. **Soft skills** : Your knowledge is of no use if you can't express your thoughts properly. Good speaking, listening and presentation skills are must. Work on them as well.
@@ -87,19 +88,19 @@ Now to be successful in CSE ie, landing up in Product based companies or a good 
 6. **Be a problem solver** : Always see how you can implement your knowledge for the betterment of the society.
 
 7. **Be a multitasker** : You can easily do 2 things in College perfectly but if you try to do more then 2 then it may impact your performance.
-   
+
    By 2 things I mean (College Study + CP) or (CP  + Development) or (Development + College Study) or (Friends + College Study/Development/CP).
-   
+
    To cover more than 2 things you need to be very good at emotion control.
-   
+
    Humans can't do fast Context Switching. Brain can't can't stick to one thing for longer time. But if you take the control, you can easily multitask between 2 things.
-   
+
    You can also do slow motion multi tasking like
 
 8. College Study or Core CS
 
 9. Alternating between CP & Development on weekly basis
-   
+
    Don't compromise Core CS and competitive programming for development. You can plan development during vacations or weekends.
 
 ## Picking Development
@@ -113,6 +114,7 @@ Let's see some of the prominent development fields one by one.
 2. **Game development** : Unity is best place to start game development but it requires you to learn C#, which is extra burden given your vast B.Tech syllabus to complete. Same goes with web dvpt also, you may require to learn several new things apart from syllabus.
 
 3. **App development** : Here you have 3 choices,
+
 - **Native Android development** → You can get started with Java and OOPS. Fortunately, they are in B.Tech syllabus also. So, two marks with one stone. You will see the practical implementation of your OOPS, SE, OOAD and design patterns knowledge. So, it is the best option to start with.
 
 - **Native iOS development** → It requires you to learn completely new set of languages. Also, you need Mac. So, just keep it aside as it is extra overhead.

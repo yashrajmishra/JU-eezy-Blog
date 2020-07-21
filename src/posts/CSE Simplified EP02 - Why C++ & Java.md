@@ -4,7 +4,7 @@ path: "/CSE-Simplified-EP01-Why-C++&Java"
 date: "2020-07-10"
 author: "Lavish Swarnkar"
 excerpt: "Welcome to the first episode of the series - CSE Simplified....."
-tags: ["new", "talk", "announcement"]
+tags: ["new", "talk", "announcement","EP02","WhyCpp","WhyJava"]
 ---
 
 Namaskaram friends!

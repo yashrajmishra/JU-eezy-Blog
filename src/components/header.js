@@ -7,14 +7,14 @@ import Menu from "./menu";
 
 import style from "../styles/header.module.css";
 
-const Header = (props) => {
+const Header = props => {
   const {
     siteLogo,
     logoText,
     mainMenu,
     mainMenuItems,
     menuMoreText,
-    defaultTheme,
+    defaultTheme
   } = props;
   const defaultThemeState =
     (typeof window !== "undefined" && window.localStorage.getItem("theme")) ||
@@ -89,11 +89,11 @@ Header.propTypes = {
   mainMenu: PropTypes.arrayOf(
     PropTypes.shape({
       title: PropTypes.string,
-      path: PropTypes.string,
+      path: PropTypes.string
     })
   ),
   mainMenuItems: PropTypes.number,
-  menuMoreText: PropTypes.string,
+  menuMoreText: PropTypes.string
 };
 
 export default Header;

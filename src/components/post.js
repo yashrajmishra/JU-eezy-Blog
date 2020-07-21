@@ -17,15 +17,15 @@ const Post = ({
   tags,
   html,
   previousPost,
-  nextPost,
+  nextPost
 }) => {
   const disqusConfig = {
     shortname: "ju-eezy",
     config: {
       url: "https://blog.jueezy.rocks" + path,
       identifier: path,
-      title: title,
-    },
+      title: title
+    }
   };
   const previousPath = previousPost && previousPost.frontmatter.path;
   const previousLabel = previousPost && previousPost.frontmatter.title;
@@ -42,7 +42,7 @@ const Post = ({
           {date} {author && <>— Written by {author}</>}
           {tags ? (
             <div className={style.tags}>
-              {tags.map((tag) => (
+              {tags.map(tag => (
                 <Link to={`/tag/${toKebabCase(tag)}/`} key={toKebabCase(tag)}>
                   <span className={style.tag}>#{tag}</span>
                 </Link>
@@ -92,7 +92,7 @@ Post.propTypes = {
   html: PropTypes.string,
   tags: PropTypes.arrayOf(PropTypes.string),
   previousPost: PropTypes.object,
-  nextPost: PropTypes.object,
+  nextPost: PropTypes.object
 };
 
 export default Post;
