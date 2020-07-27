@@ -1,9 +1,9 @@
 ---
 title: "CSE Simplified EP02 - Why C++ & Java"
-path: "/CSE-Simplified-EP01-Why-C++&Java"
+path: "/CSE-Simplified-EP02-Why-C++&Java"
 date: "2020-07-10"
 author: "Lavish Swarnkar"
-excerpt: "Welcome to the first episode of the series - CSE Simplified....."
+excerpt: "There are a lot of programming languages to pick from...."
 tags: ["new", "talk", "announcement","EP02","WhyCpp","WhyJava"]
 ---
 
